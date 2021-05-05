@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">L1Z2 kotlin</string>
+    <string name="Przegrane">Przegrane\n0</string>
+    <string name="Wygrane">Wygrane\n0</string>
+    <string name="Wybor">Czekam na Wybór</string>
+    <string name="Tytul">Kamień Papier Nożyce</string>
+</resources>

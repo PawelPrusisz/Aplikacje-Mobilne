@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TO:DO</string>
+    <string name="edit">Edytuj</string>
+    <string name="delete">Usuń</string>
+    <string name="mark_as_completed">Oznacz jako wykonane</string>
+    <string name="reset">Reset</string>
+    <string name="sort4">Sortuj po priorytecie</string>
+    <string name="sort3">Sortuj alfabetycznie</string>
+    <string name="sort2">Sortuj po grupach</string>
+    <string name="sort1">Sortuj po deadline</string>
+</resources>

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">L1Z2</string>
+    <string name="Wygrane">Wygrane:</string>
+    <string name="Przegrane">Przegrane:</string>
+    <string name="Dark">DarkMode</string>
+    <string name="Title">TODO</string>
+    <string name="wygrane">Wygrane0:</string>
+    <string name="przegrane">Przegrane:0</string>
+    <string name="czekam_na_wyb_r">Czekam na wybór</string>
+    <string name="przegranePkt">0</string>
+    <string name="wygranePkt">0</string>
+    <string name="kamien">kamien</string>
+    <string name="kamie_papier_no_yce">Kamień Papier Nożyce</string>
+    <string name="nozyce">nozyce</string>
+    <string name="bold_text">Bold Text</string>
+</resources>

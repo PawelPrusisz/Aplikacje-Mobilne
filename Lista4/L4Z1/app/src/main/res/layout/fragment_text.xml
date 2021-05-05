@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".TextFragment">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="This is the name of the image"
+            android:textSize="24sp"
+            android:textColor="@color/black"
+            android:layout_below="@+id/imageView"
+            android:layout_centerHorizontal="true"
+            android:textAlignment="center"
+            android:layout_margin="5dp"
+            android:id="@+id/name"
+            >
+        </TextView>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/name"
+            android:layout_centerHorizontal="true"
+            android:layout_margin="5dp"
+            android:textSize="16sp"
+            android:id="@+id/description"
+            android:text="This is the description of the image, it might e long and can go over to the next line"
+            android:textAlignment="center"
+            >
+        </TextView>
+
+        <RatingBar
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/description"
+            android:layout_centerHorizontal="true"
+            android:layout_margin="5dp"
+            android:id="@+id/ratingBar">
+        </RatingBar>
+    </RelativeLayout>
+
+</FrameLayout>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">L1Z1 java</string>
+    <string name="jaka_liczba_njest_wi_ksza">Jaka liczba\njest większa?</string>
+    <string name="fajna_gra">Fajna Gra</string>
+    <string name="button">Button</string>
+    <string name="textview">TextView</string>
+</resources>
